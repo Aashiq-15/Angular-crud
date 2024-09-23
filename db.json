@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstName": "Aashiq",
+      "lastName": "Ahamed",
+      "email": "ab123@gmail.com",
+      "dob": "2001-09-03T18:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "HCL",
+      "experience": 2,
+      "package": 24,
+      "id": "ae95"
+    },
+    {
+      "firstName": "Test",
+      "lastName": "user",
+      "email": "user1@gmail.com",
+      "dob": "2024-09-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Degree",
+      "company": "Sassco",
+      "experience": 3,
+      "package": 25000,
+      "id": "44b7"
+    }
+  ]
+}
